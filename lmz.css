@@ -1,0 +1,66 @@
+
+
+body{
+	background-color: mintcream;
+	text-align:center;
+}
+
+h1{
+	color: Black;
+	font-size: 24px;
+	background-color: #2a9d8f;
+	font-family: Lora;
+	font-weight: 800;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+img{width: 400px;
+}
+
+h2,h3,h4,h5{
+	color: Black;
+	font-size: 20px;
+	font-family: Lora;
+	font-weight: 500;
+	letter-spacing: 2px;
+	background-color: mintcream;
+	text-transform: uppercase;
+
+}
+p{
+	Color: black;
+	font-size: 12px;
+	font-family: Times;
+	font-weight: lighter;
+}
+
+a{ 
+color:#C1121F;
+font-family: 'Rooto',sans-serif;
+transition: color,0.3s, ease;
+text-decoration: none;
+font-weight: 600
+}
+
+a:hover{
+	color: darkblue;
+	text-decoration: none;
+}
+
+#insta,#linkedin{width:20px;}
+
+.img-circle{
+	border-radius: 30%;
+}
+
+div{
+	background-color: white;
+	width: 900px;
+}
+
+.container {
+	width: 900px ;
+	margin: 60 auto;
+	background-color: cornflowerblue;
+}
